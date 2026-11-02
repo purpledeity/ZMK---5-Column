@@ -15,6 +15,5 @@ manifest:
     - name: zmk
       remote: petejohanson
       revision: feat/pointers-move-scroll
-      import: app/west.yml
   self:
     path: config
